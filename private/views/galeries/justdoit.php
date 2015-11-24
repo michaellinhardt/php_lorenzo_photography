@@ -1,0 +1,1 @@
+<div id="_DefaultContent"><p style="text-align: center; font-weight: bold; color: #FFF; font-size: 4em; padding: 120px 0 0 0;">Traitement en cours ...<br /><img src="<?php echo IMG_HTTP;?>ico/loading.gif" /></p></div>

@@ -1,0 +1,14 @@
+#_Contact {
+	margin: 0 0 0 0;
+	padding: 0;
+	margin-left: auto;
+	margin-right: auto;
+	background: url(../img/page/contact.png) no-repeat;
+	width: 627px;
+	height: 436px;
+}
+
+#_blank {
+	visibility: hidden;
+	height: 55px;
+}

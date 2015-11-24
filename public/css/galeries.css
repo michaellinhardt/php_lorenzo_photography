@@ -1,0 +1,103 @@
+#_BackBtn {
+	margin: 0;
+	padding: 0;
+	position: absolute;
+	top: 195px;
+	left: 180px;
+	display: none;
+}
+
+#_GalerieContent {
+	margin: 0 0 0 145px;
+	padding: 0;
+	position: relative;
+	border: none;
+	width: 950px;
+	height: 555px;
+	top: 270px;
+}
+
+._GalerieVignette {
+	margin: 0;
+	padding: 0;
+	position: absolute;
+	border: none;
+	width: 228px;
+	height: 250px;
+	display: none;
+}
+
+._GalerieVignetteTitre {
+	margin: 0;
+	padding: 0;
+	position: relative;
+	margin-left: auto;
+	margin-right: auto;
+	width: 228px;
+	height: 80px;
+}
+
+._GalerieVignetteTitre P {
+	color: #FFF;
+	margin: 0 0 0 0;
+	padding: 15px 0 0 0;
+	position: relative;
+	display: block;
+	width: 228px;
+	height: 80px;
+	text-align: center;
+	font-size: 1.5em;
+	font-family: verdana, arial, times, sans-serif ;
+}
+
+._GalerieVignetteImg {
+	margin: 0;
+	padding: 0;
+	position: relative;
+	margin-left: auto;
+	margin-right: auto;
+	width: 228px;
+	height: 170px;
+}
+
+._SgalerieVignette {
+	margin: 0;
+	padding: 0;
+	position: absolute;
+	border: none;
+	width: 216px;
+	height: 177px;
+	display: none ;
+}
+._GalerieVignetteImg {
+	margin: 0;
+	padding: 0;
+	position: relative;
+	margin-left: auto;
+	margin-right: auto;
+	width: 216px;
+	height: 177px;
+}
+
+#_ArrowR {
+	margin: 0;
+	padding: 0;
+	position: absolute;
+	background: url(../img/site/arrowr.png) no-repeat;
+	display: none;
+	width: 132px;
+	height: 159px;
+	right: 75px;
+	top: 475px;
+}
+#_ArrowL {
+	margin: 0;
+	padding: 0;
+	position: absolute;
+	background: url(../img/site/arrowl.png) no-repeat;
+	display: none;
+	width: 132px;
+	height: 159px;
+	left: 75px;
+	top: 475px;
+}

@@ -1,0 +1,27 @@
+#_SlideShow {
+	margin: 0;
+	padding: 0;
+	position: relative;
+}
+
+#_Slideshow_Preload {
+	display: none;
+}
+
+#_SlideShow_MarginTop {
+	visibility: hidden;
+	padding: 0;
+	margin: 0;
+	height: 200px;
+}
+
+#_SlideShow_Background {
+	margin: 0 auto 0 auto;
+	padding: 0;
+	border: 6px solid #FFF;
+	background: #FFF;
+	text-align: center;
+	display: block;
+	width: 36px;
+	height: 36px;
+}

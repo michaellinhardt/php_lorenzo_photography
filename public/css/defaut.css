@@ -1,0 +1,73 @@
+body {
+	margin: 0; padding: 0;
+	background: url(../img/site/degrade.jpg) repeat-x #202020;
+}
+
+img {
+	margin: 0; padding: 0;
+	border: none ;
+}
+
+a {
+	margin: 0; padding: 0;	
+	border: none ;
+}
+
+#_content {
+	margin: 57px 0 0 0;
+	padding: 0;
+	position: relative;
+	width: 1242px;
+	height: 903px;
+	margin-left: auto;
+	margin-right: auto;
+	background: url(../img/site/fond.jpg);
+}
+
+#_ajaxLoad_Content {
+	margin: 0; padding: 0;
+	position: absolute;
+	width: 400px;
+	height: 300px;
+	left: 400px;
+	top: 375px;
+	display: none;
+}
+
+._btnMenu {
+	margin: 0;
+	padding: 0;
+	position: absolute;
+	width: 84px;
+	height: 131px;
+}
+
+#_btnMenu1 { top: 71px ; right: 412px; }
+#_btnMenu2 { top: 124px ; right: 319px; }
+#_btnMenu3 { top: 109px ; right: 214px; }
+#_btnMenu4 { top: 98px ; right: 109px; }
+
+#_btnMenu1:hover { background: url(../img/site/btn1.jpg) no-repeat; }
+#_btnMenu2:hover { background: url(../img/site/btn2.jpg) no-repeat; }
+#_btnMenu3:hover { background: url(../img/site/btn3.jpg) no-repeat; }
+#_btnMenu4:hover { background: url(../img/site/btn4.jpg) no-repeat; }
+
+#_accueilBtn {
+	margin: 0;
+	padding: 0;
+	position: absolute;
+	width: 360px;
+	height: 70px;
+	top: 115px;
+	left: 115px;
+}
+
+#_DefaultContent {
+	margin: 0 0 0 145px;
+	padding: 0;
+	position: relative;
+	border: none;
+	width: 950px;
+	height: 555px;
+	top: 270px;
+}

@@ -1,0 +1,14 @@
+#_Tirages {
+	margin: 0 0 0 0;
+	padding: 0;
+	margin-left: auto;
+	margin-right: auto;
+	background: url(../img/page/tirages.png) no-repeat;
+	width: 738px;
+	height: 478px;
+}
+
+#_blank {
+	visibility: hidden;
+	height: 15px;
+}
